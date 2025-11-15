@@ -1,4 +1,4 @@
-from controler import PhonebookController
+from controller import PhonebookController
 from view import PhonebookView
 
 if __name__ == "__main__":
